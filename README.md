@@ -3,6 +3,18 @@
 🌱 SvelteKIT를 집중적으로 사용하고 있어요<br>
 💬 저에게 무엇이든 물어보세요!<br>
 
+## 🚀 메인 언어 & 라이브러리
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 ## 🔧 제작한 서비스
 - [HTML/CSS/JS - 제천제일고등학교 시간표 및 급식 정보](https://whitedev7773.github.io/jcjeil-schedule/3)
 - [SvelteKit/Express - 제천제일고등학교 급식 호출 프로그램](https://github.com/whitedev7773/LunchCall2024)
@@ -19,10 +31,8 @@
 - [Teachable Machine/HTML/CSS/JS - QuickDraw By Google :: Clone 개발](https://whitedev7773.github.io/school/AI/QuickDrawClone/)
 
 ## 🌐 소셜 네트워크
-[![Discord](https://img.shields.io/badge/%40w.developer7773-123?style=for-the-badge&logo=Discord&logoColor=%235865F2&label=Discord&labelColor=%23FFFFFF&color=%235865F2)](https://discord.gg/w.developer7773)
-
-[![Instagram](https://img.shields.io/badge/%40giwon__w.dev7773-234?style=for-the-badge&logo=Instagram&logoColor=%23E4405F&label=Instagram&labelColor=%23FFFFFF&color=%23E4405F)](https://instagram.com/giwon_w.dev7773)
-
+[![Discord](https://img.shields.io/badge/%40w.developer7773-123?style=for-the-badge&logo=Discord&logoColor=%235865F2&label=Discord&labelColor=%23FFFFFF&color=%235865F2)](https://discord.gg/w.developer7773)<br>
+[![Instagram](https://img.shields.io/badge/%40giwon__w.dev7773-234?style=for-the-badge&logo=Instagram&logoColor=%23E4405F&label=Instagram&labelColor=%23FFFFFF&color=%23E4405F)](https://instagram.com/giwon_w.dev7773)<br>
 [![YouTube](https://img.shields.io/badge/@화이트데브-화이트데브?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Youtube&labelColor=%23FFFFFF&color=%23FF0000)](https://youtube.com/@whitedev7773)
 
 # 💻 기술 스택
