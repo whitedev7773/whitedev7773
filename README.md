@@ -22,10 +22,14 @@
 2021.11.22 ~ 2023.3.3 `300+명 디스코드 서버 전용 봇 개발 담당`<br>
 2022.07.03 ~ 2024.02.06 `제천제일고등학교 급식 순서 호출 프로그램 개발 & 유지보수`<br>
 2022.07.03 ~ 2024.02.06 `제천제일고등학교 스터디룸 예약 프로그램 개발 & 유지보수`<br>
-2022.11.26 `제 7회 충청북도 해커톤 도지사상 수상`<br>
+2022.11.26 `제 7회 충청북도 해커톤 교육감상 수상`<br>
 2024.03.01 ~ * `KNU 경북대학교 IT대학 컴퓨터학부 플랫폼SW&데이터과학전공 24학번`<br>
 
-__TMI. TypeScript는 싫어합니다.__
+__TMI. TypeScript를 싫어합니다.__
+
+## ✅ solved.ac
+[![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=whitedev7773)](https://solved.ac/whitedev7773)
+
 
 ## 🚀 메인 언어 & 라이브러리
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +47,7 @@ __TMI. TypeScript는 싫어합니다.__
 - [HTML/CSS/JS - 제천제일고등학교 시간표 및 급식 정보](https://whitedev7773.github.io/jcjeil-schedule/3)
 - [SvelteKit/Express - 제천제일고등학교 급식 호출 프로그램](https://github.com/whitedev7773/LunchCall2024)
 - [Launchpad/HTML/CSS/JS - NDI :: No Drum & Instrumental](https://github.com/whitedev7773/NDI)
+- [자세히 보기...](./main_services)
 
 ## 💡 미니 프로젝트
 - [Unity2D - 정렬 시각화](https://whitedev7773.github.io/school/Sort/)
@@ -53,13 +58,14 @@ __TMI. TypeScript는 싫어합니다.__
 - [Unity3D - 물리학2 전자기 시뮬레이터](https://whitedev7773.github.io/school/Physics2/)
 - [HTML/CSS/JS - 표준편차계산기](https://whitedev7773.github.io/school/Standard-Seviation/)
 - [Teachable Machine/HTML/CSS/JS - QuickDraw By Google :: Clone 개발](https://whitedev7773.github.io/school/AI/QuickDrawClone/)
+- [자세히 보기...](./side_projects)
 
 ## 🌐 소셜 네트워크
 [![Discord](https://img.shields.io/badge/%40w.developer7773-123?style=for-the-badge&logo=Discord&logoColor=%235865F2&label=Discord&labelColor=%23FFFFFF&color=%235865F2)](https://discord.gg/w.developer7773)<br>
 [![Instagram](https://img.shields.io/badge/%40giwon__w.dev7773-234?style=for-the-badge&logo=Instagram&logoColor=%23E4405F&label=Instagram&labelColor=%23FFFFFF&color=%23E4405F)](https://instagram.com/giwon_w.dev7773)<br>
 [![YouTube](https://img.shields.io/badge/@화이트데브-화이트데브?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Youtube&labelColor=%23FFFFFF&color=%23FF0000)](https://youtube.com/@whitedev7773)
 
-# 💻 기술 스택
+## 💻 기술 스택
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -91,7 +97,7 @@ __TMI. TypeScript는 싫어합니다.__
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-087885?style=for-the-badge&logo=arduino&logoColor=white)
 
-# 📊 깃허브 스택
+### 📊 깃허브 스택
 ![](https://github-readme-stats.vercel.app/api?username=whitedev7773&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitedev7773&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -103,6 +109,3 @@ __TMI. TypeScript는 싫어합니다.__
 ## 💰 아래 링크로 작은 응원을 해주세요
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/whitedev7773) 
 [![토스 후원](https://img.shields.io/badge/TOSS_Donation-0161f7?style=for-the-badge&logoColor=white)](https://toss.me/wdev7773) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
