@@ -17,7 +17,6 @@
 ---
 
 # 💫 About Me
-2021.03.23 ~ * `JPOP 번역 및 서브 코딩 유튜브 채널 운영`<br>
 2021.04.02 ~ 2024.02.06 `제천제일고등학교 방송부 차장 및 총괄`<br>
 2021.11.22 ~ 2023.3.3 `300+명 디스코드 서버 전용 봇 개발 담당`<br>
 2022.07.03 ~ 2024.02.06 `제천제일고등학교 급식 순서 호출 프로그램 개발 & 유지보수`<br>
@@ -63,7 +62,6 @@ __TMI. TypeScript를 싫어합니다.__
 ## 🌐 소셜 네트워크
 [![Discord](https://img.shields.io/badge/%40w.developer7773-123?style=for-the-badge&logo=Discord&logoColor=%235865F2&label=Discord&labelColor=%23FFFFFF&color=%235865F2)](https://discord.gg/w.developer7773)<br>
 [![Instagram](https://img.shields.io/badge/%40giwon__w.dev7773-234?style=for-the-badge&logo=Instagram&logoColor=%23E4405F&label=Instagram&labelColor=%23FFFFFF&color=%23E4405F)](https://instagram.com/giwon_w.dev7773)<br>
-[![YouTube](https://img.shields.io/badge/@화이트데브-화이트데브?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Youtube&labelColor=%23FFFFFF&color=%23FF0000)](https://youtube.com/@whitedev7773)
 
 ## 💻 기술 스택
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
