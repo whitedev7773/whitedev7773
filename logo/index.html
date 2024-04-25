@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./blue.css">
+    <link rel="stylesheet" href="./green.css">
+    <link rel="stylesheet" href="./pink.css">
+    <link rel="stylesheet" href="./white.css">
+    <title>Logo</title>
+</head>
+<style>
+    :root {
+        --logo-size: 700px;
+        --roundness: 100px;
+        --blue: #69b4ff;
+        --green: #badc58;
+        --pink: #fd79a8;
+        --white: #ffffff;
+        --time: 0.5s;
+        --cubic: cubic-bezier(.33,.33,.16,.96);
+    }
+
+    body {
+        background-color: #617f99;
+    }
+
+    #logo {
+        position: absolute;
+
+        width: var(--logo-size);
+        height: var(--logo-size);
+
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+        filter: drop-shadow(0px 0px 10px #00000030);
+    }
+</style>
+<body>
+    <div id="logo" class="step-0 step-1 step-2">
+        <div id="blue">  <span id="point"></span>  </div>
+        <div id="green">  </div>
+        <div id="white">  </div>
+        <div id="pink">  <span id="point"></span>  </div>
+    </div>
+</body>
+</html>
+
+<script>
+    const MS_PER_STEP = 550;
+
+    setTimeout(() => {
+        step();
+        setInterval(() => {
+            step();
+        }, MS_PER_STEP * 6);
+    }, 500);
+
+    function step() {
+        let logo = document.getElementById("logo");
+        setTimeout(() => {logo.className = "step-0 step-1";}, MS_PER_STEP * 1);
+        setTimeout(() => {logo.className = "step-0";}, MS_PER_STEP * 2);
+        setTimeout(() => {logo.className = "step-0 step-1";}, MS_PER_STEP * 4);
+        setTimeout(() => {logo.className = "step-0 step-1 step-2";}, MS_PER_STEP * 5);
+    }
+</script>

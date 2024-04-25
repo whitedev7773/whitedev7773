@@ -1,0 +1,21 @@
+#green {
+    transition: all var(--time) var(--cubic);
+
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: calc(var(--logo-size) / 2);
+    height: calc(var(--logo-size) / 2);
+    
+    border-radius: var(--roundness);
+
+    background-color: var(--green);
+}
+
+.step-1 #green {
+    width: calc(var(--logo-size)/2 * 0.8);
+    height: calc(var(--logo-size)/2 * 0.8);
+
+    border-radius: 0px calc(var(--roundness) * 2) 0px 0px;
+}

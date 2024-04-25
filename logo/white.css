@@ -1,0 +1,28 @@
+#white {
+    transition: all var(--time) var(--cubic);
+
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+    width: calc(var(--logo-size) / 2);
+    height: calc(var(--logo-size) / 2);
+    
+    border-radius: var(--roundness);
+
+    background-color: var(--white);
+}
+
+.step-1 #white {
+    width: calc(var(--logo-size)/2 * 1.2);
+    height: calc(var(--logo-size)/2 * 1.2);
+
+    border-radius: var(--roundness);
+}
+
+.step-2 #white {
+    width: calc(var(--logo-size)/2);
+    height: calc(var(--logo-size)/2);
+
+    border-radius: calc(var(--logo-size)/4);
+}

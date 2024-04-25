@@ -1,3 +1,4 @@
+[<img src="./No-Loop.gif" style="border-radius: 50px;">](./logo)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="90">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90">
@@ -96,7 +97,7 @@ __TMI. TypeScript를 싫어합니다.__
 ![Arduino](https://img.shields.io/badge/arduino-087885?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 📊 깃허브 스택
-![](https://github-readme-stats.vercel.app/api?username=whitedev7773&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=whitedev7773&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitedev7773&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 최근에 기여/수정한 레포지토리
@@ -106,4 +107,8 @@ __TMI. TypeScript를 싫어합니다.__
 
 ## 💰 아래 링크로 작은 응원을 해주세요
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/whitedev7773) 
-[![토스 후원](https://img.shields.io/badge/TOSS_Donation-0161f7?style=for-the-badge&logoColor=white)](https://toss.me/wdev7773) 
+[![토스 후원](https://img.shields.io/badge/TOSS_Donation-0161f7?style=for-the-badge&logoColor=white)](https://toss.me/wdev7773)
+
+---
+
+<img src="./No-Loop.gif" style="border-radius: 50px;">

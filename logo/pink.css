@@ -1,0 +1,46 @@
+#pink > #point {
+    transition: all var(--time) var(--cubic);
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+    display: block;
+
+    background-color: var(--white);
+
+    width: calc(var(--logo-size)/2 * 0.8);
+    height: calc(var(--logo-size)/2 * 0.8);
+
+    border-radius: 100%;
+
+    transform: translate(100%, 100%);
+}
+
+#pink {
+    transition: all var(--time) var(--cubic);
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+    width: calc(var(--logo-size) / 2);
+    height: calc(var(--logo-size) / 2);
+    
+    border-radius: var(--roundness);
+
+    background-color: var(--pink);
+
+    overflow: hidden;
+}
+
+.step-1 #pink {
+    width: calc(var(--logo-size)/2 * 0.8);
+    height: calc(var(--logo-size)/2 * 1.2);
+
+    border-radius: 0px 0px 0px calc(var(--roundness) * 2);
+}
+
+.step-2 #pink > #point {
+    transform: translate(50%, 50%);
+}
