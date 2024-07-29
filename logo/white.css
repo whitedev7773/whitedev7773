@@ -17,7 +17,7 @@
     width: calc(var(--logo-size)/2 * 1.2);
     height: calc(var(--logo-size)/2 * 1.2);
 
-    border-radius: var(--roundness);
+    border-radius: var(--roundness) 0 var(--roundness) var(--roundness);
 }
 
 .step-2 #white {

@@ -24,8 +24,12 @@
 2022.07.03 ~ 2024.02.06 `제천제일고등학교 스터디룸 예약 프로그램 개발 & 유지보수`<br>
 2022.11.26 `제 7회 충청북도 해커톤 교육감상 수상`<br>
 2024.03.01 ~ * `KNU 경북대학교 IT대학 컴퓨터학부 플랫폼SW&데이터과학전공 24학번`<br>
+2024.03.07 ~ * `KNU 경북대학교 멋쟁이 사자처럼 12기`<br>
+2024.03.18 ~ * `KNU 경북대학교 KERT 25기`<br>
+2024.05.07 ~ * `KNU 경북대학교 KERT 소개 사이트 FE 개발자`<br>
 
-__TMI. TypeScript를 싫어합니다.__
+
+__TMI. TypeScript를 좋아하진않아요. 하지만 받아들이는 중...__
 
 ## ✅ solved.ac
 [![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=whitedev7773)](https://solved.ac/whitedev7773)
