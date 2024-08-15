@@ -66,7 +66,7 @@ __TMI. TypeScript를 좋아하진않아요. 하지만 받아들이는 중...__
 
 ## 🌐 소셜 네트워크
 [![Discord](https://img.shields.io/badge/%40w.developer7773-123?style=for-the-badge&logo=Discord&logoColor=%235865F2&label=Discord&labelColor=%23FFFFFF&color=%235865F2)](https://discord.gg/w.developer7773)<br>
-[![Instagram](https://img.shields.io/badge/%40giwon__w.dev7773-234?style=for-the-badge&logo=Instagram&logoColor=%23E4405F&label=Instagram&labelColor=%23FFFFFF&color=%23E4405F)](https://instagram.com/giwon_w.dev7773)<br>
+[![Youtube](https://img.shields.io/badge/%40WHTIEDEV7773-white?style=for-the-badge&logo=youtube&logoColor=ff0000&label=youtube&labelColor=white&color=ff0000)](https://www.youtube.com/@화이트데브)
 
 ## 💻 기술 스택
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
