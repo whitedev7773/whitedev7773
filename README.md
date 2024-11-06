@@ -28,7 +28,7 @@
 2024.05.07 ~ * `KNU 경북대학교 KERT 소개 사이트 FE 개발자`<br>
 
 
-__TMI. TypeScript를 좋아하진않아요. 하지만 받아들이는 중...__
+__TMI. SVELTE 붐은 찾아온다...__
 
 ## ✅ solved.ac
 [![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=whitedev7773)](https://solved.ac/whitedev7773)
